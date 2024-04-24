@@ -1,0 +1,2 @@
+# NewsBotAI
+NewsBotAI application
